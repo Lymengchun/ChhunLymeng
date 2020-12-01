@@ -1,10 +1,6 @@
 
-iframe{
-   float: right;
-   
-}
-
-
-iframe{
-   float: right;
+.ad{
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
 }
